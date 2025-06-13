@@ -1,11 +1,11 @@
-# simple-interest-calculator
-This is a sample Python project to calculate simple interest.
+# Simple Interest Calculator
 
-## Formula
+A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
 
-**Simple Interest = (Principal × Rate × Time) / 100**
+## Input
+- `p`: principal amount  
+- `t`: time period in years  
+- `r`: annual rate of interest  
 
-## Example
-
-```python
-calculate_simple_interest(1000, 5, 2)  # Output: 100.0
+## Output
+- `simple interest = p * t * r`
