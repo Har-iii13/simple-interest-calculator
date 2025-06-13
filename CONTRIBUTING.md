@@ -1,17 +1,10 @@
 # Contributing Guidelines
 
-Thanks for your interest in contributing!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-## How to Contribute
+Optionally, you can review the following guides for examples of contribution guidelines and update this file:
 
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make changes with clear commit messages.
-4. Submit a Pull Request.
-
-## Coding Standards
-
-- Keep code clean and well-documented.
-- Follow PEP8 for Python scripts.
-
-Happy coding!
+- [Contributing to Legit Info](https://github.com/Call-for-Code-for-Racial-Justice/Legit-Info/blob/main/CONTRIBUTING.md)
+- [Contributing to OpenEEW](https://github.com/openeew/openeew-dashboard/blob/main/CONTRIBUTING.md)
+- [Contributing to Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
+- [How to contribute to Ruby on Rails](https://github.com/rails/rails/blob/main/CONTRIBUTING.md)
